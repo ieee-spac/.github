@@ -77,7 +77,7 @@ Through our workshops, and networking opportunities, we aim to prepare students 
     <tr>
         <td align="center">
             <a href="https://github.com/ieee-spac/2024">
-                <img src="https://github.com/user-attachments/assets/5c31aa2c-e789-44ca-b5b5-dd8b3d1c2199" alt="2024 Platform">
+                <img src="https://github.com/user-attachments/assets/137af3c0-f78b-478f-ba88-853562e26bba" alt="2024 Platform">
             </a>
         </td>
     </tr>
