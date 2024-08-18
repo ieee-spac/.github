@@ -1,13 +1,4 @@
 <div align="center">
-    <h1>
-  <a href="https://ieeespac.ca">
-IEEE SPAC
-</a>
-</h1>
-    <h3>Student Professional Awareness Conference</h3>
-</div>
-
-<div align="center">
     <a href="https://ieeespac.ca">
         <img src="https://github.com/user-attachments/assets/0bc53f71-2cbb-4fa8-8687-374576168f28" alt="IEEE SPAC Ottawa">
     </a>
@@ -30,7 +21,7 @@ At SPAC, we believe in driving innovation through collaboration and knowledge sh
 
 ### Not just a conference, but a launchpad for your professional journey.
 
-Through our conference, workshops, and networking opportunities, we aim to prepare students and professionals to lead in the rapidly evolving field of engineering. We focus on providing the tools and insights needed to build a sustainable and technologically advanced future.
+Through our workshops, and networking opportunities, we aim to prepare students and professionals to lead in the rapidly evolving field of engineering. We focus on providing the tools and insights needed to build a sustainable and technologically advanced future.
 
 ---
 
