@@ -93,7 +93,7 @@ Through our workshops, and networking opportunities, we aim to prepare students 
     <tr>
         <td align="center">
             <a href="https://www.figma.com/design/rxRdlFbCkzJDezvIPPaQvo/IEEE-SPAC-2024-Website?node-id=492-561&t=JQ71yLIitUFP0EG8-1">
-                <img src="https://github.com/user-attachments/assets/3e413c0b-b8c6-48af-9d35-afb1062a7608" alt="Brand">
+                <img src="https://github.com/user-attachments/assets/bff4ebcd-f376-4ba9-a5f0-24ab8830cccc" alt="Brand">
             </a>
         </td>
         <td align="center">
