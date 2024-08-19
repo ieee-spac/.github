@@ -132,7 +132,7 @@ Through our workshops, and networking opportunities, we aim to prepare students 
 ### 📱 Doomscroll with us
 
 <p align="center">
-    <a href="https://www.linkedin.com/company/ieee-spac-ottawa">
+    <a href="https://www.linkedin.com/company/spacottawa/">
         <img src="https://img.icons8.com/?size=100&id=MR3dZdlA53te&format=png&color=000000" alt="LinkedIn">
     </a>
     <a href="https://www.instagram.com/ieeespac/?hl=en">
