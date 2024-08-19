@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://ieeespac.ca">
-        <img src="https://github.com/user-attachments/assets/0bc53f71-2cbb-4fa8-8687-374576168f28" alt="IEEE SPAC Ottawa">
+        <img src="https://github.com/user-attachments/assets/bff4ebcd-f376-4ba9-a5f0-24ab8830cccc" alt="IEEE SPAC Ottawa">
     </a>
 </div>
 
