@@ -163,4 +163,4 @@ _Work in progress..._ 🏗️
 
 ---
 
-Made with 💙 by [Mumtahin Farabi](https://github.com/mfarabi619)
+Brand Cover made with 💙 by [Aashna Verma](https://github.com/Aashna-Verma).
