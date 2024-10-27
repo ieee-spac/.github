@@ -120,7 +120,7 @@ Through our workshops, and networking opportunities, we aim to prepare students 
     </tr>
     <tr>
         <td align="center">
-            <a href="https://github.com/ieee-spac/2022">
+            <a href="https://2022-ieeespac.vercel.app">
                 <img src="https://github.com/user-attachments/assets/53a13bb9-b5c6-4bf4-8b25-42399f660f03" alt="2022 Platform">
             </a>
         </td>
