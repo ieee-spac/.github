@@ -85,8 +85,8 @@ Through our workshops, and networking opportunities, we aim to prepare students 
 
 <table align="center">
     <tr>
-        <th align="center"><a href="https://www.figma.com/design/rxRdlFbCkzJDezvIPPaQvo/IEEE-SPAC-2024-Website?node-id=492-561&t=JQ71yLIitUFP0EG8-1"><strong>Brand</strong></a></th>
-        <th align="center"><a href="https://www.figma.com/design/rxRdlFbCkzJDezvIPPaQvo/IEEE-SPAC-2024-Website?node-id=492-561&t=JQ71yLIitUFP0EG8-1"><strong>Design</strong></a></th>
+        <th align="center"><a href="https://main--665264891b6bc70eded9109a.chromatic.com/?path=/docs/welcome--docs"><strong>Twilight Design System</strong></a></th>
+        <th align="center"><a href="https://www.figma.com/community/file/1417704325784085062/ieee-spac-2024-twilight-design-system"><strong>Brand Identity & UI/UX Research</strong></a></th>
         <th align="center"><a href="https://github.com/ieee-spac/2024"><strong>Source</strong></a></th>
         <th align="center"><a href="https://github.com/orgs/ieee-spac/projects/4"><strong>Project Board</strong></a></th>
     </tr>
@@ -116,12 +116,25 @@ Through our workshops, and networking opportunities, we aim to prepare students 
 
 <table align="center">
     <tr>
-        <th align="center"><h3><a href="https://github.com/ieee-spac/2022">2022 Platform</a></h3></th>
+        <th align="center"><h3><a href="https://2022-ieeespac.vercel.app">2022 Platform</a></h3></th>
     </tr>
     <tr>
         <td align="center">
             <a href="https://github.com/ieee-spac/2022">
                 <img src="https://github.com/user-attachments/assets/53a13bb9-b5c6-4bf4-8b25-42399f660f03" alt="2022 Platform">
+            </a>
+        </td>
+    </tr>
+</table>
+
+<table align="center">
+    <tr>
+        <th align="center"><a href="https://github.com/ieee-spac/2022"><strong>Source</strong></a></th>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/ieee-spac/2024">
+                <img src="https://github.com/user-attachments/assets/734fc061-84bd-457f-b9fa-a0b7a078aded" alt="Source">
             </a>
         </td>
     </tr>
@@ -154,8 +167,8 @@ Through our workshops, and networking opportunities, we aim to prepare students 
 ### Email Us
 
 - **webmaster@ieeespac.ca**: For anything technical
-- **patronage@ieeespac.ca**: For sponsorships, partnerships, and patronage-related inquiries.
-- **lead@ieeespac.ca**: For general leadership inquiries and communications with the SPAC organizing team.
+- **patronage@ieeespac.ca**: For sponsorships, partnerships, and patronage-related inquiries
+- **lead@ieeespac.ca**: For general leadership inquiries and communications with the SPAC organizing team
 
 ### Contribution Guidelines
 
