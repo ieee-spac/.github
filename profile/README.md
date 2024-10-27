@@ -92,13 +92,13 @@ Through our workshops, and networking opportunities, we aim to prepare students 
     </tr>
     <tr>
         <td align="center">
-            <a href="https://www.figma.com/design/rxRdlFbCkzJDezvIPPaQvo/IEEE-SPAC-2024-Website?node-id=492-561&t=JQ71yLIitUFP0EG8-1">
-                <img src="https://github.com/user-attachments/assets/bff4ebcd-f376-4ba9-a5f0-24ab8830cccc" alt="Brand">
+            <a href="https://main--665264891b6bc70eded9109a.chromatic.com/?path=/docs/welcome--docs">
+                <img src="https://github.com/user-attachments/assets/bff4ebcd-f376-4ba9-a5f0-24ab8830cccc" alt="Twilight Design System">
             </a>
         </td>
         <td align="center">
-            <a href="https://www.figma.com/design/rxRdlFbCkzJDezvIPPaQvo/IEEE-SPAC-2024-Website?node-id=492-561&t=JQ71yLIitUFP0EG8-1">
-                <img src="https://github.com/user-attachments/assets/c6ec02bf-2512-48e3-ad71-fd6b70d9657b" alt="Design">
+            <a href="https://www.figma.com/community/file/1417704325784085062/ieee-spac-2024-twilight-design-system">
+                <img src="https://github.com/user-attachments/assets/c6ec02bf-2512-48e3-ad71-fd6b70d9657b" alt="Brand Identity & UI/UX Research">
             </a>
         </td>
         <td align="center">
@@ -133,7 +133,7 @@ Through our workshops, and networking opportunities, we aim to prepare students 
     </tr>
     <tr>
         <td align="center">
-            <a href="https://github.com/ieee-spac/2024">
+            <a href="https://github.com/ieee-spac/2022">
                 <img src="https://github.com/user-attachments/assets/734fc061-84bd-457f-b9fa-a0b7a078aded" alt="Source">
             </a>
         </td>
