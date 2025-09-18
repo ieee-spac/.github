@@ -1,8 +1,10 @@
 <div align="center">
     <a href="https://ieeespac.ca">
-        <img src="https://github.com/user-attachments/assets/bff4ebcd-f376-4ba9-a5f0-24ab8830cccc" alt="IEEE SPAC Ottawa">
+        <img width="1440" height="1024" alt="SPAC repo header sparkles" src="https://github.com/user-attachments/assets/65255cb9-9a44-4eef-b2b6-dd93f6f9f249" />
     </a>
+
 </div>
+
 
 <hr/>
 
@@ -11,7 +13,7 @@
 
 <hr/>
 
-SPAC was last hosted online in 2022. This year, we’re bringing it back with more energy, more innovation, more opportunities, and **IN-PERSON** 🥳.
+SPAC was last hosted in 2024. This year, we’re bringing it back with more energy, more innovation, more opportunities 🥳.
 
 Join us and be a part of something extraordinary.
 
@@ -72,12 +74,12 @@ Through our workshops, and networking opportunities, we aim to prepare students 
 
 <table align="center">
     <tr>
-        <th align="center"><h3><a href="https://ieeespac.ca">2024 Platform</a></h3></th>
+        <th align="center"><h3><a href="https://ieeespac.ca">2025 Platform</a></h3></th>
     </tr>
     <tr>
         <td align="center">
             <a href="https://github.com/ieee-spac/2024">
-                <img src="https://github.com/user-attachments/assets/137af3c0-f78b-478f-ba88-853562e26bba" alt="2024 Platform">
+                 <img width="1440" height="1024" alt="SPAC repo header beams" src="https://github.com/user-attachments/assets/71b06f20-0681-42fd-abf7-1d1560e3227b" />
             </a>
         </td>
     </tr>
@@ -114,6 +116,32 @@ Through our workshops, and networking opportunities, we aim to prepare students 
     </tr>
 </table>
 
+<table align="center">
+    <tr>
+        <th align="center"><h3><a href="https://2024ieeespac.vercel.app/">2024 Platform</a></h3></th>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/ieee-spac/2024">
+                <img src="https://github.com/user-attachments/assets/137af3c0-f78b-478f-ba88-853562e26bba" alt="2024 Platform">
+            </a>
+        </td>
+    </tr>
+</table>
+
+
+<table align="center">
+    <tr>
+        <th align="center"><h3><a href="https://2022-ieeespac.vercel.app">2022 Platform</a></h3></th>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://2022-ieeespac.vercel.app">
+                <img src="https://github.com/user-attachments/assets/53a13bb9-b5c6-4bf4-8b25-42399f660f03" alt="2022 Platform">
+            </a>
+        </td>
+    </tr>
+</table>
 <table align="center">
     <tr>
         <th align="center"><h3><a href="https://2022-ieeespac.vercel.app">2022 Platform</a></h3></th>
